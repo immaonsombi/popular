@@ -1,1 +1,83 @@
-
+{
+    "posts": [
+         {
+              "name": "Masai Eco Lodge   ",
+              "description": "Masai Eco Lodge is set within a 123 acre certified organic farm in the picturesque Kajiado County of the amazing Rift Valley of Kenya. Renown for adventure in ecotourism, agritourism, personal, group or corporate activities such as team-building,conferences, seminars, workshops, weddings, bird-watching,hills climbing, detoxing, cycling, trekking, site-seeing and a host of artistic and cultural ",
+              "Rating": "3.50",
+              "episode": 500,
+              "categorie":"Camping",
+              "studio":"Kiserian",
+              "img":"https://api.cloud9xp.com/media/products/images/d1bccff3-968e-474e-be28-786843a748d4/ff48d6be-aaad-4dd7-8582-881b0ee670f0.jpeg"
+          },
+            {
+              "name": "Lukenya Motorcross",
+              "description": "Camp at Lukenya Motorcross Experiences",
+              "Rating": "4.0",
+              "episode": 900,
+               "categorie":"Camping ",
+              "studio":"Lukenya",
+              "img": "https://api.cloud9xp.com/media/products/images/e5dfc42f-b84d-4f03-8361-4790348251fc/48197ef4-b609-4bb9-ae45-233c79e5cbde.jpg"
+          },
+       {
+              "name": " Kereita forest",
+              "description": "Enjoy The Forest under the stars, with a warm camp fire and surrounded by friends and family.",
+              "Rating": "4.0",
+              "episode": 1000,
+              "categorie":"Nature Trail",
+              "studio":"Kimende",
+              "img": "https://api.cloud9xp.com/media/products/images/e4ddc0bc-deb6-4b43-8690-44f0831b4270/8c919bf2-6770-404f-b543-86bfd2412cbc.jpg"
+          },
+          { "name": "Ngong hills",
+              "description": "this is a camping site in kenya in ngong hills",
+              "Rating": "2.0",
+              "episode": 1000,
+               "categorie":"camping ",
+              "studio":"Nairobi",
+              "img": "https://api.cloud9xp.com/media/products/images/240284fe-d3fc-4ca9-9e60-fb2d5ca20050/4e1d0f54-4af3-4b5d-891d-1146421a2c92.jpeg"
+          },
+           {
+              "name": "Sagana",
+              "description": "How about a 2 days Camping/Accommodation,Swimming,Mingle,Night Party,Game Night,Team building fun with optional Cycling & Flower Farm tour at the famous breathtaking New Mwanzo Lodge  ",
+              "Rating": "4.0",
+              "episode": 2000,
+               "categorie":"camping  ",
+              "studio":"Sagana",
+              "img": "https://api.cloud9xp.com/media/products/images/ebad4573-423a-4d38-a717-b11fb528c77f/0ca80eb7-5833-42dd-b443-5cebcb423847.jpg"
+          },
+          { "name": "Hells Gate National Park",
+              "description": "Biking on various parts of the beautiful countryside and challenging trails has become quite popular in Kenya. From relaxed biking around the coast to more intense trails, like those found in Hells Gate National Park, it’s a great way to explore the country and get some exercise",
+              "Rating": "3.5",
+              "episode": 500,
+               "categorie":" outdoor ",
+              "studio":"Naivasha",
+              "img": "https://api.cloud9xp.com/media/products/images/279a1c7a-a861-43f7-8199-f3f4539c3a96/876acae2-9427-4177-9365-aabbaf17f973.jpg"
+          },
+          
+          {
+            "name": "Bomas",
+            "description": "The Bomas of Kenya is a miniature showcase of Kenya. It showcases the diverse cultures that make up the country, from their various lifestyles to their crafts and traditions. ",
+            "Rating": "4.0",
+            "episode": 900,
+             "categorie":"camping  ",
+            "studio":"Nairobi",
+            "img": "https://api.cloud9xp.com/media/products/images/ebad4573-423a-4d38-a717-b11fb528c77f/0ca80eb7-5833-42dd-b443-5cebcb423847.jpg"
+        },
+        { "name": "Karura forest ",
+            "description": "Karura forest is very adventure friendly. You will find bikers, climbers and ziplining enthusiasts enjoying the strength of the trees.",
+            "Rating": "3.5",
+            "episode": 500,
+             "categorie":" outdoor ",
+            "studio":"Kiambu",
+            "img": "https://api.cloud9xp.com/media/products/images/279a1c7a-a861-43f7-8199-f3f4539c3a96/876acae2-9427-4177-9365-aabbaf17f973.jpg"
+        },
+          {
+            "name": "Savage wilderness",
+            "description": "this is a camping site in kenya in ngong hills",
+            "Rating": "4.5",
+            "episode": 1000,
+             "categorie":"camping ",
+            "studio":"Nairobi",
+            "img": "https://api.cloud9xp.com/media/products/images/3485a703-b233-4492-8656-96cc4016424d/d33c4257-419b-4d2a-b6d3-609412341a93.jpg"
+        }
+            ]
+  }
